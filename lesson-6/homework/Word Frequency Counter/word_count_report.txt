@@ -1,0 +1,13 @@
+Word Count Report
+Total words: 16
+Top 10 most common words:
+is - 3 times
+file - 3 times
+this - 2 times
+a - 2 times
+testing - 1 times
+test - 1 times
+simple - 1 times
+purposes - 1 times
+it - 1 times
+for - 1 times
