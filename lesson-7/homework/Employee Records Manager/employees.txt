@@ -1,0 +1,2 @@
+1001, Fazliddin, owner, 100000000
+1003, name3, pos3, 3

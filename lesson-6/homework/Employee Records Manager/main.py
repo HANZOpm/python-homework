@@ -99,6 +99,7 @@ def delete_employee_by_id():
         with open("employees.txt") as file:
             data = file.readlines()
         found = False
+        employee = ""
         for employee in data:
             if employee.startswith(employee_id):
                 found = True
